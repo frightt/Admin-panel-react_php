@@ -18,7 +18,8 @@
     "core-js": "^3.23.1",
     "jquery": "^3.6.0",
     "sass": "^1.52.3",
-    "save-dev": "^0.0.1-security"
+    "save-dev": "^0.0.1-security",
+    "uikit": "^3.14.3"
   },
   "devDependencies": {
     "@babel/core": "^7.18.5",
